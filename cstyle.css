@@ -1,0 +1,52 @@
+BODY    {
+	BACKGROUND: white;
+	FONT-FAMILY: Helvetica;
+	FONT-SIZE: 10px;
+	}
+TD	{
+	BACKGROUND: white;
+	FONT-FAMILY: Helvetica;
+	FONT-SIZE: 14px;
+	COLOR: #000;
+	}
+TD.logo {
+        BACKGROUND: black;
+        FONT-FAMILY: Helvetica;
+        FONT-SIZE: 14px;
+        COLOR: #606;
+        }
+TD.side	{
+	BACKGROUND: white url("/images/testback1.jpg") top;
+	FONT-FAMILY: Helvetica;
+	FONT-SIZE: 14px;
+	}
+TD.bar {
+	BACKGROUND: white;
+	FONT-FAMILY: Helvetica;
+	FONT-SIZE: 14px;
+	COLOR: #003;
+	}
+A:link {
+	COLOR: #990066;
+	 FONT-SIZE: 14px;
+	 FONT-FAMILY:  Helvetica;
+	 TEXT-DECORATION: underline;
+	}
+A:active { 
+	COLOR: #666666;
+	FONT-SIZE: 14px;
+	FONT-FAMILY:  Helvetica;
+	TEXT-DECORATION: underline;
+	}
+A:visited {
+	COLOR: #660066;
+	FONT-SIZE: 14px;
+	FONT-FAMILY:  Helvetica;
+	TEXT-DECORATION: underline;
+	}
+A:hover {
+	COLOR: #330033;
+	FONT-SIZE: 14px;
+	FONT-FAMILY:  Helvetica;
+	TEXT-DECORATION: underline;
+	}
